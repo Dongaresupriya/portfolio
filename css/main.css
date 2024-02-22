@@ -284,12 +284,6 @@ body {
     height: auto;
 }
 
-.col-md-8-col-lg-7 p {
-    font-size: 16px;
-    line-height: 1.5;
-	margin-bottom: 55px; /* Adjust the margin as needed */
-
-}
 
 .col-lg-3 ul {
     list-style: none;
