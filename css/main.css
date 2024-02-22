@@ -277,13 +277,14 @@ body {
 	font-size: 55px;
 }
 
-.col-sm-3 img {
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+.rounded-image {
+    border-radius: 15px; /* Adjust the radius value as needed */
+    display: block;
     width: 100%;
+    height: auto;
 }
 
-.col-sm-7 p {
+.col-md-8-col-lg-7 p {
     font-size: 16px;
     line-height: 1.5;
 	margin-bottom: 55px; /* Adjust the margin as needed */
