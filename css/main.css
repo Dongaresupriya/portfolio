@@ -426,6 +426,14 @@ body {
 	word-spacing: 5px;
 }
 
+.progress{
+	height: 25px;
+}
+.progress-text {
+    font-size: 20px; /* Adjust the font size as needed */
+}
+
+
 
 /* ============================  animated  numbers   ==================================*/
 
