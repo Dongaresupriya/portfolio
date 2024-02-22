@@ -278,7 +278,7 @@ body {
 }
 
 .rounded-image {
-    border-radius: 15px; /* Adjust the radius value as needed */
+    border-radius: 10px; /* Adjust the radius value as needed */
     display: block;
     width: 100%;
     height: auto;
