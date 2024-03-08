@@ -420,6 +420,13 @@ body {
     font-size: 55px;
 	word-spacing: 5px;
 }
+.skills h3 {
+    font-size: 30px;
+    font-weight: 700;
+    
+    margin-bottom: 15px;
+	font-family: 'Solway', serif;
+}
 
 .progress{
 	height: 25px;
