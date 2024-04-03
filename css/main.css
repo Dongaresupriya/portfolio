@@ -285,29 +285,29 @@ body {
 }
 
 
-.col-lg-3 ul {
+.col-md-6 ul {
     list-style: none;
     padding: 0;
 	margin-bottom: 15px; /* Adjust the margin as needed */
 
 }
 
-.col-lg-3 ul li {
+.col-md-6 ul li {
     margin-bottom: 10px;
     display: flex;
     align-items: center;
 }
 
-.col-lg-3 ul li i {
+.col-md-6 ul li i {
     margin-right: 10px;
     color: #007bff; /* Adjust the color as needed */
 }
 
-.col-lg-3 ul li strong {
+.col-md-6 ul li strong {
     margin-right: 5px;
 }
 
-.col-lg-3 ul li span {
+.col-md-6 ul li span {
     color: #333; /* Adjust the color as needed */
 }
 
